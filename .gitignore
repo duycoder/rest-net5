@@ -2,4 +2,4 @@ bin/
 obj/
 .vscode/*
 !.vscode/tasks.json
-!.vscode/lauch.json
+!.vscode/launch.json
